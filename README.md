@@ -1,4 +1,7 @@
 # DATA620004_Final_Project
+- BYOL based on Resnet18 at https://github.com/JDmunkJoey/BYOL_Resnet18
+- Resnet18 at https://github.com/JDmunkJoey/Resnet18_Cifar10
+- 
 # BYOL based on Resnet18 - Implementation
 PyTorch implementation of "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning" by J.B. Grill et al.
 

@@ -79,14 +79,14 @@ With `model_final.pt` being file containing the pre-trained network from the pre
 ## Results
 ### Training 
 #### loss
-![](BYOL-master/../BYOL_ResNet18/accuracy%20of%20train.png)
+![](BYOL-master/../BYOL_Resnet18/accuracy%20of%20train.png) 
 #### Accuracy
-![](BYOL-master/../BYOL_ResNet18/accuracy%20of%20train.png)
+![](BYOL-master/../BYOL_Resnet18/accuracy%20of%20train.png)
 ### Linear classification protocol (evaluation) 
 #### loss
-![](BYOL-master/../BYOL_ResNet18/loss%20of%20test.png)
+![](BYOL-master/../BYOL_Resnet18/loss%20of%20test.png)
 #### Accuracy
-![](BYOL-master/../BYOL_ResNet18/accuracy%20of%20test.png)
+![](BYOL-master/../BYOL_Resnet18/accuracy%20of%20test.png)
 #### final testing performance
 The performance (accuracy) of testing the fine-tuned model after throwing away fc layer is 79.96%.
 
@@ -151,13 +151,13 @@ python test.py
 ## Results
 ### Train
 #### loss
-![](ResNet18-Cifar10/../ResNet18_Cifar10/loss%20of%20train.png)
+![](ResNet18-Cifar10/../Resnet18_Cifar10/loss%20of%20train.png)
 #### Accuracy
-![](ResNet18-Cifar10/../ResNet18_Cifar10/accuracy%20of%20train.png)
+![](ResNet18-Cifar10/../Resnet18_Cifar10/accuracy%20of%20train.png)
 ### Test
 #### loss
-![](ResNet18-Cifar10/../ResNet18_Cifar10/loss%20of%20test.png)
+![](ResNet18-Cifar10/../Resnet18_Cifar10/loss%20of%20test.png)
 #### Accuracy
-![](ResNet18-Cifar10/../ResNet18_Cifar10/accuracy%20of%20test.png)
+![](ResNet18-Cifar10/../Resnet18_Cifar10/accuracy%20of%20test.png)
 #### Final testing performance
 The performance (accuracy) of testing the fine-tuned model after throwing away fc layer is 88.94%.

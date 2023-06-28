@@ -1,4 +1,5 @@
 # DATA620004_Final_Project
+# Yiqiao Jin, 22210980045
 - BYOL based on Resnet18 at https://github.com/JDmunkJoey/BYOL_Resnet18
 - Resnet18 at https://github.com/JDmunkJoey/Resnet18_Cifar10
 
